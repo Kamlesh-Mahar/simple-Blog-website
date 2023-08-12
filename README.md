@@ -1,8 +1,7 @@
 # simple-Blog-website
-- Install all the Dependencies. body-parser, ejs, express, lodash.
-- • Or simply open the folder location in console and type the command on console -  npm i
-        it will install all the dependencies for you automatically.
--  • Then run the index.js by typing nodemon index.js on console.
--  Next step open your browser and search for localhost:3000 and you are done.
+- Open the folder location in the console and enter the following command. body-parser, ejs, express, lodash.
+- • Alternatively, open the folder location in the console and enter the following command: 'npm i'. This will automatically install all the required dependencies for you.
+-  Then, run the index.js file by typing 'nodemon index.js' in the console.
+-  The next step is to open your browser and navigate to 'localhost:3000', and you're all set.
 
 -  ![Simple-blog-website](/preview.png)
